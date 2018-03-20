@@ -13,6 +13,7 @@
         <module>eagle-eureka-client</module>
         <module>eagle-service-ribbon</module>
         <module>eagle-service-feign</module>
+        <module>eagle-service-zuul</module>
     </modules>
 
     <properties>
